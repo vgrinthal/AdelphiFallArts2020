@@ -6,8 +6,7 @@
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
   color: #ffb500;
   width: 100%;
-  transition: .5s ease;
-  opacity:0;
+  opacity:0.3;
   color: white;
   font-size: 20px;
   padding: 20px;
