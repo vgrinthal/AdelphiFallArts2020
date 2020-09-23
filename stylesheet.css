@@ -1,4 +1,8 @@
-#Edwards:hover {
+.area {
     color:#ffb500;
+    opacity: 0;
+}
+
+#Edwards:hover {
     opacity:0.5;
 }
