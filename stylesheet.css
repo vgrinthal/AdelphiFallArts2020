@@ -1,6 +1,8 @@
 .area {
-    color:#ffb500;
+    background:#ffb500;
     opacity: 0;
+    display:block;
+    position:absolute;
 }
 
 #Edwards:hover, #McKenna:hover, #Xie:hover {
