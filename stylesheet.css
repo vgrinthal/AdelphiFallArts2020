@@ -3,6 +3,6 @@
     opacity: 0;
 }
 
-#Edwards:hover {
+#Edwards:hover, #McKenna:hover, #Xie:hover {
     opacity:0.5;
 }
