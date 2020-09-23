@@ -1,4 +1,4 @@
-Edwards
+DJ Edwards
 - front of PAC
 515, 190
 544, 203
@@ -7,19 +7,18 @@ Edwards
 - perspective 
 527,221
 - audio is fine
-- 
 
-McKenna
+Emily McKenna
 - front of Science Building
 688, 258
-711, 253
 697, 247
+711, 253
 699, 268
 - perspective
 671,278
 - audio is fine
 
-Xie
+Hua Xie
 - back of Science Building
 786, 204
 801, 202
@@ -29,7 +28,7 @@ Xie
 810, 212
 - audio is fine
 
-Peierls
+Jay Peierls
 - back of Swirbul Library
 892, 411
 903, 406
@@ -40,7 +39,7 @@ Peierls
 - audio is fine
 - text file?
 
-Cortez
+Jocelyn Cortez
 - Blodgett Hall side (2x)
 822, 253
 849, 275
@@ -50,15 +49,15 @@ Cortez
 775, 294
 - audio is fine
 
-Sledge
+Julia Sledge
 - viewing access for picture is denied 
 - audio is fine
 
-Ward
+Katherine Ward
 - Off-campus image
 - audio is fine
 
-Draws
+Kimberly Draws
 - Side of Nexus Building (v1)
 706, 389
 714, 386
@@ -68,7 +67,7 @@ Draws
 725, 325
 - audio is fine
 
-Clark
+Oliver Clark
 - Front of Swirbul Library
 824, 369
 832, 375
@@ -78,7 +77,7 @@ Clark
 819, 352
 - audio is .aup and I cannot access the data from it
 
-Raifer
+Bernard Raifer
 - front/side of PAC
 542, 165
 533, 160
@@ -88,7 +87,7 @@ Raifer
 450, 188
 - audio is fine
 
-Wachter
+Shea Wachter
 - Side of Nexus Building (v2) (same points as Draws)
 706, 389
 714, 386
