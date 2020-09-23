@@ -1,12 +1,4 @@
-.area {
-    background:#fff;
-    display:block;
-    height:475px;
-    opacity:0;
-    position:absolute;
-    width:320px;
-}
-
 .area:hover {
+    color:#ffb500;
     opacity:0.2;
 }
