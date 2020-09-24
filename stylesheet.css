@@ -3,5 +3,10 @@ audio {
   position:absolute; 
   height: 100%; 
   width: 100%;
-  overflow-x: hidden;
 }
+ figure {
+ 	margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+ }
