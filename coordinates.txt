@@ -1,5 +1,5 @@
 DJ Edwards
-- front of PAC
+- front of PAC DONE
 515, 190
 544, 203
 545, 178
@@ -9,7 +9,7 @@ DJ Edwards
 - audio is fine
 
 Emily McKenna
-- front of Science Building
+- front of Science Building DONE
 688, 258
 697, 247
 711, 253
@@ -19,7 +19,7 @@ Emily McKenna
 - audio is fine
 
 Hua Xie
-- back of Science Building
+- back of Science Building DONE
 786, 204
 801, 202
 775, 190
@@ -29,7 +29,7 @@ Hua Xie
 - audio is fine
 
 Jay Peierls
-- back of Swirbul Library
+- back of Swirbul Library DONE
 892, 411
 903, 406
 833, 370
@@ -40,7 +40,7 @@ Jay Peierls
 - text file?
 
 Jocelyn Cortez
-- Blodgett Hall side (2x)
+- Blodgett Hall side (2x) DONE
 822, 253
 849, 275
 818, 289
@@ -50,15 +50,19 @@ Jocelyn Cortez
 - audio is fine
 
 Julia Sledge
-- viewing access for picture is denied 
+- back corner/side of Swirbul Library DONE
+
+- perspective
+
 - audio is fine
 
 Katherine Ward
-- Off-campus image
+- Off-campus image BUTTON
+
 - audio is fine
 
 Kimberly Draws
-- Side of Nexus Building (v1)
+- Side of Nexus Building (v1) DONE
 706, 389
 714, 386
 696, 376
@@ -68,7 +72,7 @@ Kimberly Draws
 - audio is fine
 
 Oliver Clark
-- Front of Swirbul Library
+- Front of Swirbul Library DONE
 824, 369
 832, 375
 815, 383
@@ -78,7 +82,7 @@ Oliver Clark
 - audio is .aup and I cannot access the data from it
 
 Bernard Raifer
-- front/side of PAC
+- front/side of PAC DONE
 542, 165
 533, 160
 504, 172
@@ -88,7 +92,7 @@ Bernard Raifer
 - audio is fine
 
 Shea Wachter
-- Side of Nexus Building (v2) (same points as Draws)
+- Side of Nexus Building (v2) 
 706, 389
 714, 386
 696, 376
@@ -96,3 +100,12 @@ Shea Wachter
 - perspective
 725, 325
 - audio is fine
+
+.mapplace {
+  background-image: url("mapplace.png");
+  position: absolute;
+  Draws
+  z-index: 12;
+}
+
+}
